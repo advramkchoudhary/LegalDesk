@@ -1,0 +1,33 @@
+law-firm-website/
+├── _config.yml          # Site configuration
+├── Gemfile              # Ruby gem dependencies
+├── Gemfile.lock
+├── _includes/           # Reusable components
+│   ├── footer.html
+│   ├── head.html
+│   ├── header.html
+│   └── navbar.html
+├── _layouts/            # Page templates
+│   ├── default.html
+│   ├── page.html
+│   └── post.html
+├── _pages/              # Main content pages
+│   ├── about.md
+│   ├── attorneys.md
+│   ├── contact.md
+│   ├── practice-areas.md
+│   └── success-stories.md
+├── _posts/              # Blog/news articles
+│   └── 2023-11-15-welcome-to-jekyll.markdown
+├── assets/              # Static files
+│   ├── css/
+│   │   └── style.scss   # Main stylesheet
+│   ├── img/             # All images
+│   ├── js/
+│   │   └── main.js      # Custom JavaScript
+│   └── pdfs/            # Legal documents
+├── _sass/               # SCSS partials
+│   ├── _base.scss
+│   ├── _layout.scss
+│   └── _variables.scss
+└── index.md             # Homepage
