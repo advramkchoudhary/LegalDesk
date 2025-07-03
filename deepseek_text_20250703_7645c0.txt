@@ -1,0 +1,8 @@
+your-repo/
+├── index.html          (Homepage)
+├── about.html          (About page)
+├── services.html       (Services offered)
+├── contact.html        (Contact info)
+└── assets/
+    ├── css/style.css   (Styling)
+    └── images/         (Logo, photos)
