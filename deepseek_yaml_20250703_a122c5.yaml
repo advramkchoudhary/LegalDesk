@@ -1,0 +1,27 @@
+title: "Lawson & Associates"
+description: "Professional legal services in corporate and family law"
+url: "https://yourfirm.github.io" # or custom domain
+baseurl: ""
+
+# Jekyll configuration
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Site information
+email: contact@lawfirm.com
+phone: "(555) 123-4567"
+address: "123 Legal Ave, Suite 100, Lawville, LV 12345"
+
+# Social media (optional)
+twitter_username: lawfirm
+facebook_username: lawfirm
+linkedin_username: lawfirm
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
